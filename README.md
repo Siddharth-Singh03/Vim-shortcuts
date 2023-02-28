@@ -49,6 +49,6 @@ cc.file_name.extension
 ```
 
 9.writing in the document
-``bash
+```bash
 press insert
 ```
