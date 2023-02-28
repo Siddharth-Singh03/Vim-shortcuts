@@ -42,3 +42,13 @@ cc.file_name.extension
 ```bash
 ./a.out
 ```
+
+8. save
+```bash
+:wq
+```
+
+9.writing in the document
+``bash
+press insert
+```
