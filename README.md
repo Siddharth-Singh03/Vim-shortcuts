@@ -45,7 +45,7 @@ cc.file_name.extension
 
 8. save
 ```bash
-:wq
+:wq || :x
 ```
 
 9.writing in the document
